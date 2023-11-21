@@ -34,6 +34,7 @@ namespace CursoCSharp.Ejercicios
             this.btnE1 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.panelVisor = new System.Windows.Forms.Panel();
+            this.btnE2 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
             this.SuspendLayout();
@@ -51,6 +52,7 @@ namespace CursoCSharp.Ejercicios
             // flowLayoutPanel1
             // 
             this.flowLayoutPanel1.Controls.Add(this.btnE1);
+            this.flowLayoutPanel1.Controls.Add(this.btnE2);
             this.flowLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.flowLayoutPanel1.Location = new System.Drawing.Point(0, 52);
             this.flowLayoutPanel1.Name = "flowLayoutPanel1";
@@ -92,6 +94,21 @@ namespace CursoCSharp.Ejercicios
             this.panelVisor.Size = new System.Drawing.Size(706, 540);
             this.panelVisor.TabIndex = 1;
             // 
+            // btnE2
+            // 
+            this.btnE2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(28)))), ((int)(((byte)(28)))), ((int)(((byte)(28)))));
+            this.btnE2.FlatAppearance.BorderSize = 0;
+            this.btnE2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnE2.Font = new System.Drawing.Font("Consolas", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnE2.ForeColor = System.Drawing.Color.White;
+            this.btnE2.Location = new System.Drawing.Point(3, 96);
+            this.btnE2.Name = "btnE2";
+            this.btnE2.Size = new System.Drawing.Size(256, 87);
+            this.btnE2.TabIndex = 1;
+            this.btnE2.Text = "Ejercicio 2\r\n(Operadores Aritmeticos)\r\n";
+            this.btnE2.UseVisualStyleBackColor = false;
+            this.btnE2.Click += new System.EventHandler(this.btnE2_Click);
+            // 
             // MenuPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -115,5 +132,6 @@ namespace CursoCSharp.Ejercicios
         private System.Windows.Forms.FlowLayoutPanel flowLayoutPanel1;
         private System.Windows.Forms.Button btnE1;
         private System.Windows.Forms.Panel panelVisor;
+        private System.Windows.Forms.Button btnE2;
     }
 }

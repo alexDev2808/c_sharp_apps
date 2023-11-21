@@ -27,3 +27,4 @@ C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.csp
 C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.csproj.CoreCompileInputs.cache
 C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.exe
 C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.pdb
+C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.Ejercicios.Ejercicio2.resources
