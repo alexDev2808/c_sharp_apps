@@ -47,6 +47,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Condicionales\frmCondicionales.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Condicionales\frmCondicionales.Designer.cs">
+      <DependentUpon>frmCondicionales.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ejercicios\Ejercicio1.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -97,6 +103,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Condicionales\frmCondicionales.resx">
+      <DependentUpon>frmCondicionales.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ejercicios\Ejercicio1.resx">
       <DependentUpon>Ejercicio1.cs</DependentUpon>
     </EmbeddedResource>
