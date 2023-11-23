@@ -95,6 +95,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Listas\frmListas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas\frmListas.Designer.cs">
+      <DependentUpon>frmListas.cs</DependentUpon>
+    </Compile>
     <Compile Include="OperadoresAritmeticos\fmOpAritmeticos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -138,6 +144,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Listas\frmListas.resx">
+      <DependentUpon>frmListas.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="OperadoresAritmeticos\fmOpAritmeticos.resx">
       <DependentUpon>fmOpAritmeticos.cs</DependentUpon>

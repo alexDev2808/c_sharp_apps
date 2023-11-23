@@ -3,6 +3,7 @@ using CursoCSharp.OperadoresRelacionales;
 using CursoCSharp.Ejercicios;
 using CursoCSharp.OperadoresLogicos;
 using CursoCSharp.Condicionales;
+using CursoCSharp.Listas;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -20,7 +21,7 @@ namespace CursoCSharp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MenuPrincipal());
+            Application.Run(new frmListas_Arrays());
         }
     }
 }
