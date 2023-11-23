@@ -30,3 +30,4 @@ C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.pdb
 C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.Ejercicios.Ejercicio2.resources
 C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.Ejercicios.Ejercicio3.resources
 C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.Condicionales.frmCondicionales.resources
+C:\Users\jaxx2\Documents\C_Sharp_Proyectos\CursoCSharp\obj\Debug\CursoCSharp.Ejercicios.Ejercicio4_Condicionales.resources

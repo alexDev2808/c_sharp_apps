@@ -71,6 +71,12 @@
     <Compile Include="Ejercicios\Ejercicio3.Designer.cs">
       <DependentUpon>Ejercicio3.cs</DependentUpon>
     </Compile>
+    <Compile Include="Ejercicios\Ejercicio4_Condicionales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Ejercicios\Ejercicio4_Condicionales.Designer.cs">
+      <DependentUpon>Ejercicio4_Condicionales.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ejercicios\MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +120,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Ejercicios\Ejercicio3.resx">
       <DependentUpon>Ejercicio3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicios\Ejercicio4_Condicionales.resx">
+      <DependentUpon>Ejercicio4_Condicionales.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Ejercicios\MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
